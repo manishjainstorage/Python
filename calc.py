@@ -11,7 +11,11 @@
 
 #june 8 test
 
+<<<<<<< HEAD
 
+=======
+#june 8 test branch
+>>>>>>> test-branch
 
 #this is a test - Kaezer
 
